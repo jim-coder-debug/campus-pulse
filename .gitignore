@@ -1,0 +1,5 @@
+# Ignore the database connection file (it has passwords)
+db_connect.php
+
+# Ignore the folder with user-uploaded images
+/uploads/
